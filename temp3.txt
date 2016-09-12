@@ -1,0 +1,4 @@
+    
+     <label for="custID">Customer ID</label>
+    <input type="text" name="custID" />
+    <input type="submit" name="custIDsubmit" value="ENTER" />
